@@ -1,2 +1,4 @@
 *.zip
 *-env/
+
+Menu_Card_Transformation/final_dataset/**

@@ -1,0 +1,8 @@
+path: ./final_dataset
+train: images/train
+val: images/train
+nc: 3
+names:
+  0: Category
+  1: Menu Item
+  2: Section
