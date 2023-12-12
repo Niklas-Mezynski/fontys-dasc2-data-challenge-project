@@ -4,6 +4,7 @@
 Menu_Card_Transformation/final_dataset/**
 runs/**
 *.pt
+**.pkl
 
 .vscode/
 runs
